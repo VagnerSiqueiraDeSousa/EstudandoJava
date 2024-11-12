@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19056407-4ea8-402e-9f99-fc7e6aa1cee9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercism.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/ComparisonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/ConcatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/ConditionalDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/ConditionalDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/InstanceofDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Myinterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/PrePostDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/UnaryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/child.java" afterDir="false" />
-    </list>
+    <list default="true" id="19056407-4ea8-402e-9f99-fc7e6aa1cee9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +20,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1731453638" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="testing" />
+                    <option name="lastUsedInstant" value="1731453637" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -72,11 +77,11 @@
   </component>
   <component name="RunManager" selected="Application.InstanceofDemo">
     <configuration name="ComparisonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.ComparisonDemo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.ComparisonDemo" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="ConditionalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.ConditionalDemo1" />
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.ConditionalDemo1" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="ConditionalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.ConditionalDemo2" />
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.ConditionalDemo2" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="InstanceofDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.InstanceofDemo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.InstanceofDemo" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="PrePostDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.PrePostDemo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.PrePostDemo" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
