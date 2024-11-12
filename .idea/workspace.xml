@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19056407-4ea8-402e-9f99-fc7e6aa1cee9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/ComparisonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/ConcatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/ConditionalDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/ConditionalDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/InstanceofDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Myinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/PrePostDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/UnaryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/child.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oexwbWOI45yug59wlwwuvop67c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ComparisonDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceofDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrePostDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnaryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.exercism.java.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InstanceofDemo">
+    <configuration name="ComparisonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.ComparisonDemo" />
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.ConditionalDemo1" />
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.ConditionalDemo2" />
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceofDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.InstanceofDemo" />
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrePostDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.PrePostDemo" />
+      <module name="Exercism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.exercism.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InstanceofDemo" />
+        <item itemvalue="Application.ConditionalDemo2" />
+        <item itemvalue="Application.ConditionalDemo1" />
+        <item itemvalue="Application.ComparisonDemo" />
+        <item itemvalue="Application.PrePostDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19056407-4ea8-402e-9f99-fc7e6aa1cee9" name="Changes" comment="" />
+      <created>1731244085788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731244085788</updated>
+    </task>
+    <servers />
+  </component>
+</project>
