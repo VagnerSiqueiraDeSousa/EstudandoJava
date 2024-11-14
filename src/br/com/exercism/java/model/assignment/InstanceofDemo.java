@@ -1,6 +1,4 @@
-package br.com.exercism.java.model;
-
-import javax.swing.text.AsyncBoxView;
+package br.com.exercism.java.model.assignment;
 
 public class InstanceofDemo {
     public static void main(String[] args){

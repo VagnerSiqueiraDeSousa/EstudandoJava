@@ -1,4 +1,4 @@
-package br.com.exercism.java.model;
+package br.com.exercism.java.model.assignment;
 
 public class Main {
     public static void main(String[] args) {
