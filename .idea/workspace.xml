@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19056407-4ea8-402e-9f99-fc7e6aa1cee9" name="Changes" comment="" />
+    <list default="true" id="19056407-4ea8-402e-9f99-fc7e6aa1cee9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/LacoNumericos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/EstruturasCondicionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/ManupulacaoDeStringEDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/ManupulacaoDeStringEDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/OperadoresLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/OperadoresLogicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +20,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VagnerSiqueiraDeSousa&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -29,6 +42,14 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="criamos-uma-saudação-com-o-localDate" />
+                    <option name="lastUsedInstant" value="1731540228" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="revendo-estrutura-condicionais-na-ADA" />
+                    <option name="lastUsedInstant" value="1731536926" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1731453638" />
@@ -46,6 +67,12 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:VagnerSiqueiraDeSousa/EstudandoJava.git&quot;,
+    &quot;accountId&quot;: &quot;a72f5c39-76f3-497c-af56-bc607b51b0a2&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -55,33 +82,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ComparisonDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcatDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConditionalDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConditionalDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InstanceofDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrePostDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ComparisonDemo.executor": "Run",
+    "Application.ConcatDemo.executor": "Run",
+    "Application.ConditionalDemo1.executor": "Run",
+    "Application.ConditionalDemo2.executor": "Run",
+    "Application.EstruturasCondicionais.executor": "Run",
+    "Application.InstanceofDemo.executor": "Run",
+    "Application.LacoNumericos.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ManupulacaoDeStringEDados.executor": "Run",
+    "Application.OperadoresLogicos.executor": "Run",
+    "Application.PrePostDemo.executor": "Run",
+    "Application.UnaryDemo.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "criamos-uma-saudação-com-o-localDate",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.exercism.java.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstanceofDemo">
-    <configuration name="ComparisonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.ComparisonDemo" />
+  <component name="RunManager" selected="Application.LacoNumericos">
+    <configuration name="EstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.EstruturasCondicionais" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
+          <option name="PATTERN" value="br.com.ada.introducaojava.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.ConditionalDemo1" />
+    <configuration name="LacoNumericos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.LacoNumericos" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
+          <option name="PATTERN" value="br.com.ada.introducaojava.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.ConditionalDemo2" />
+    <configuration name="ManupulacaoDeStringEDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.ManupulacaoDeStringEDados" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
+          <option name="PATTERN" value="br.com.ada.introducaojava.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceofDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.InstanceofDemo" />
+    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.OperadoresLogicos" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
+          <option name="PATTERN" value="br.com.ada.introducaojava.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrePostDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.assignment.PrePostDemo" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.main" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.exercism.java.model.assignment.*" />
+          <option name="PATTERN" value="br.com.ada.introducaojava.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InstanceofDemo" />
-        <item itemvalue="Application.ConditionalDemo2" />
-        <item itemvalue="Application.ConditionalDemo1" />
-        <item itemvalue="Application.ComparisonDemo" />
-        <item itemvalue="Application.PrePostDemo" />
+        <item itemvalue="Application.LacoNumericos" />
+        <item itemvalue="Application.ManupulacaoDeStringEDados" />
+        <item itemvalue="Application.EstruturasCondicionais" />
+        <item itemvalue="Application.OperadoresLogicos" />
+        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
