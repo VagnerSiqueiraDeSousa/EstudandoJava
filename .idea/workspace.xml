@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19056407-4ea8-402e-9f99-fc7e6aa1cee9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/LacoNumericos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/Funcoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/TirandoMediaComVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/funcoesQueSomaDoisNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/EstruturasCondicionais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/ManupulacaoDeStringEDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/ManupulacaoDeStringEDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/OperadoresLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/OperadoresLogicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="TreinamentoAdaLacoNumerico" />
+                    <option name="lastUsedInstant" value="1731585223" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="criamos-uma-saudação-com-o-localDate" />
                     <option name="lastUsedInstant" value="1731540228" />
@@ -89,17 +92,20 @@
     "Application.ConditionalDemo1.executor": "Run",
     "Application.ConditionalDemo2.executor": "Run",
     "Application.EstruturasCondicionais.executor": "Run",
+    "Application.Funcoes.executor": "Run",
     "Application.InstanceofDemo.executor": "Run",
     "Application.LacoNumericos.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ManupulacaoDeStringEDados.executor": "Run",
     "Application.OperadoresLogicos.executor": "Run",
     "Application.PrePostDemo.executor": "Run",
+    "Application.TirandoMediaComVetor.executor": "Run",
     "Application.UnaryDemo.executor": "Run",
+    "Application.Vetores.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "criamos-uma-saudação-com-o-localDate",
+    "git-widget-placeholder": "TreinamentoAdaLacoNumerico",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -108,9 +114,9 @@
       <recent name="br.com.exercism.java.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LacoNumericos">
-    <configuration name="EstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.EstruturasCondicionais" />
+  <component name="RunManager" selected="Application.funcoesQueSomaDoisNumeros">
+    <configuration name="Funcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.Funcoes" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManupulacaoDeStringEDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.ManupulacaoDeStringEDados" />
+    <configuration name="TirandoMediaComVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.TirandoMediaComVetor" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
@@ -148,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.OperadoresLogicos" />
+    <configuration name="Vetores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.Vetores" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
@@ -161,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.main" />
+    <configuration name="funcoesQueSomaDoisNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.funcoesQueSomaDoisNumeros" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
@@ -176,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.funcoesQueSomaDoisNumeros" />
+        <item itemvalue="Application.Funcoes" />
+        <item itemvalue="Application.TirandoMediaComVetor" />
+        <item itemvalue="Application.Vetores" />
         <item itemvalue="Application.LacoNumericos" />
-        <item itemvalue="Application.ManupulacaoDeStringEDados" />
-        <item itemvalue="Application.EstruturasCondicionais" />
-        <item itemvalue="Application.OperadoresLogicos" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
