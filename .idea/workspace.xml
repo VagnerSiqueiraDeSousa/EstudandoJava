@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19056407-4ea8-402e-9f99-fc7e6aa1cee9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/Funcoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/TirandoMediaComVetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/ada/introducaojava/model/funcoesQueSomaDoisNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/bicycle/MoutainBike.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/exercism/java/model/bicycle/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/exercism/java/model/bicycle/Bicycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="criando-uma-funcao" />
+                    <option name="lastUsedInstant" value="1731616446" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="TreinamentoAdaLacoNumerico" />
                     <option name="lastUsedInstant" value="1731585223" />
                   </RecentBranch>
@@ -56,10 +59,6 @@
                   <RecentBranch>
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1731453638" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="testing" />
-                    <option name="lastUsedInstant" value="1731453637" />
                   </RecentBranch>
                 </list>
               </option>
@@ -85,36 +84,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ComparisonDemo.executor": "Run",
-    "Application.ConcatDemo.executor": "Run",
-    "Application.ConditionalDemo1.executor": "Run",
-    "Application.ConditionalDemo2.executor": "Run",
-    "Application.EstruturasCondicionais.executor": "Run",
-    "Application.Funcoes.executor": "Run",
-    "Application.InstanceofDemo.executor": "Run",
-    "Application.LacoNumericos.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ManupulacaoDeStringEDados.executor": "Run",
-    "Application.OperadoresLogicos.executor": "Run",
-    "Application.PrePostDemo.executor": "Run",
-    "Application.TirandoMediaComVetor.executor": "Run",
-    "Application.UnaryDemo.executor": "Run",
-    "Application.Vetores.executor": "Run",
-    "Application.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "TreinamentoAdaLacoNumerico",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ComparisonDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Funcoes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceofDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LacoNumericos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ManupulacaoDeStringEDados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperadoresLogicos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrePostDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TirandoMediaComVetor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnaryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.funcoesQueSomaDoisNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;criando-uma-funcao&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.exercism.java.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.funcoesQueSomaDoisNumeros">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Funcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.Funcoes" />
       <module name="Exercism" />
@@ -128,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LacoNumericos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.introducaojava.model.LacoNumericos" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.exercism.java.model.Main" />
       <module name="Exercism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.ada.introducaojava.model.*" />
+          <option name="PATTERN" value="br.com.exercism.java.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.funcoesQueSomaDoisNumeros" />
         <item itemvalue="Application.Funcoes" />
         <item itemvalue="Application.TirandoMediaComVetor" />
         <item itemvalue="Application.Vetores" />
-        <item itemvalue="Application.LacoNumericos" />
       </list>
     </recent_temporary>
   </component>
