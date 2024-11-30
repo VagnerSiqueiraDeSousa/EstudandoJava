@@ -2,16 +2,22 @@ package br.com.exercism.java.model.bicycle;
 
 public class Bicycle {
     //the Bicycle class three fields
-    public int candence;
-    public int gear;
-    public int speed;
+    private int candence;
+    private int gear;
+    private int speed;
 
     //the Bicycle class has
     //one constructor
-    public Bicycle(int candence, int gear, int speed) {
-        this.candence = candence;
-        this.gear = gear;
-        this.speed = speed;
+    public Bicycle(int startCandence, int startGear, int startSpeed) {
+        this.candence = startCandence;
+        this.gear = startGear;
+        this.speed = startSpeed;
+    }
+
+    public Bicycle(){
+        gear = 1;
+        candence = 10;
+        speed = 0;
     }
 
     //the Bicycle class has four methods
@@ -29,5 +35,14 @@ public class Bicycle {
 
     public void setSpeedUp(int increment){
         speed += increment;
+    }
+
+    @Override
+    public String  toString() {
+        return "Bicycle{" +
+                "candence=" + candence +
+                ", gear=" + gear +
+                ", speed=" + speed +
+                '}';
     }
 }
